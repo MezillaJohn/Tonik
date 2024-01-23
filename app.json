@@ -1,0 +1,7 @@
+{
+  "name": "Tonik",
+  "displayName": "Tonik",
+  "plugins": [
+    "expo-font"
+  ]
+}
